@@ -9,7 +9,6 @@
  ##
 
 <div>
-  <a href = "https://intagram.com/beca_barossi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" destino ="_blank"></a>
   <a href = "mailto:rebecabarossi@gamil.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
  
 </div>
