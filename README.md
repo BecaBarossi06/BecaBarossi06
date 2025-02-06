@@ -1,7 +1,7 @@
 ### 👩🏻‍💻 Hi! Aqui é a Rebeca Barossi
 ##
 
-Me chamdo Rebeca de Souza Barossi, sou de Arujá, São Paulo. Concluí o ensino médio técnico em Informática para internet no IFSP de Guarulhos. Atualmente estou cursando Análise e Desenvolvimento de Sistema na FATEC de Mogi das Cruzes. Gosto muito de tecnologia e de aprender cada vez mais sobre. 
+Me chamo Rebeca de Souza Barossi, sou de Arujá, São Paulo. Concluí o ensino médio técnico em Informática para internet no IFSP de Guarulhos. Atualmente estou cursando Análise e Desenvolvimento de Sistema na FATEC de Mogi das Cruzes. Gosto muito de tecnologia e de aprender cada vez mais sobre. 
 <div align="center">
 <a href="https://github.com/becabarossi06">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=becabarossi06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
