@@ -4,10 +4,11 @@
     Olá! Me chamo <a href="https://www.linkedin.com/in/rebeca-barossi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Rebeca Barossi 😃</a> 
   </h1>
   
-  <p align="center">
-   Atualmente estou cursando Análise e Desenvolvimento de Sistema na Universidade de Mogi das Cruzes. Gosto muito de tecnologia e de aprender cada vez mais!
-   Sou de Arujá, São Paulo. Concluí o ensino médio técnico em Informática para internet no IFSP de Guarulhos. <br>
-   Venha codar comigo!😉️
+  <p>
+   👩🏻‍💻Técina em informática <br>
+   📚Cursando Análise e Desenvolvimento de Sistemas na Universidade de Mogi das Cruzes <br>
+   💓Guiada pela tecnologia! <br>
+   🖥️Venha codar comigo!
   </p>
   
 </div>
@@ -20,10 +21,18 @@
 </div>
 
 <div align="center" valign="top"><br>
-   <img align="center" alt="Becaa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Beca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Beca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Beca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25" alt="python logo">
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="25" alt="php logo" />
+  <img width="8" />
 </div><br>
 
 <div align="center">
